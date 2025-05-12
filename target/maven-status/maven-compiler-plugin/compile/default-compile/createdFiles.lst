@@ -1,7 +1,7 @@
-jiekie\MainMenuPlugin.class
-jiekie\util\ChatUtil.class
-jiekie\command\MainMenuCommand.class
-jiekie\event\InventoryEvent.class
-jiekie\model\MenuInventoryHolder.class
-jiekie\util\SoundUtil.class
-jiekie\util\PacketNames.class
+jiekie\mainmenu\event\InventoryEvent.class
+jiekie\mainmenu\util\SoundUtil.class
+jiekie\mainmenu\MainMenuPlugin.class
+jiekie\mainmenu\util\ChatUtil.class
+jiekie\mainmenu\util\PacketNames.class
+jiekie\mainmenu\command\MainMenuCommand.class
+jiekie\mainmenu\model\MenuInventoryHolder.class
