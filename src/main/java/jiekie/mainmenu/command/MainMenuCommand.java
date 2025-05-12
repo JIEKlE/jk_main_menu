@@ -1,8 +1,8 @@
-package jiekie.command;
+package jiekie.mainmenu.command;
 
-import jiekie.model.MenuInventoryHolder;
-import jiekie.util.ChatUtil;
-import jiekie.util.SoundUtil;
+import jiekie.mainmenu.model.MenuInventoryHolder;
+import jiekie.mainmenu.util.ChatUtil;
+import jiekie.mainmenu.util.SoundUtil;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

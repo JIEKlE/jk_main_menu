@@ -1,6 +1,6 @@
 name: jk_main_menu
 version: '${project.version}'
-main: jiekie.MainMenuPlugin
+main: jiekie.mainmenu.MainMenuPlugin
 api-version: '1.20'
 authors: [Jiekie]
 description: 메인 메뉴 플러그인

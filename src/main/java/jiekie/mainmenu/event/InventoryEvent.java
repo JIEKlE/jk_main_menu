@@ -1,14 +1,14 @@
-package jiekie.event;
+package jiekie.mainmenu.event;
 
 import com.google.common.io.ByteArrayDataOutput;
 import com.google.common.io.ByteStreams;
-import jiekie.MainMenuPlugin;
+import jiekie.mainmenu.MainMenuPlugin;
 import jiekie.api.NicknameAPI;
-import jiekie.model.MenuInventoryHolder;
+import jiekie.mainmenu.model.MenuInventoryHolder;
 import jiekie.model.PlayerNameData;
-import jiekie.util.ChatUtil;
-import jiekie.util.PacketNames;
-import jiekie.util.SoundUtil;
+import jiekie.mainmenu.util.ChatUtil;
+import jiekie.mainmenu.util.PacketNames;
+import jiekie.mainmenu.util.SoundUtil;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.HumanEntity;

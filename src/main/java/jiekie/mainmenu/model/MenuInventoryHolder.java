@@ -1,4 +1,4 @@
-package jiekie.model;
+package jiekie.mainmenu.model;
 
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.InventoryHolder;

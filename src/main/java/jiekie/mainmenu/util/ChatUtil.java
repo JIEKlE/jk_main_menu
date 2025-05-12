@@ -1,4 +1,4 @@
-package jiekie.util;
+package jiekie.mainmenu.util;
 
 import org.bukkit.command.CommandSender;
 

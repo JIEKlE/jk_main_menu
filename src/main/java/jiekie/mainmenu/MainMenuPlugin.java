@@ -1,8 +1,8 @@
-package jiekie;
+package jiekie.mainmenu;
 
-import jiekie.command.MainMenuCommand;
-import jiekie.event.InventoryEvent;
-import jiekie.util.PacketNames;
+import jiekie.mainmenu.command.MainMenuCommand;
+import jiekie.mainmenu.event.InventoryEvent;
+import jiekie.mainmenu.util.PacketNames;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
