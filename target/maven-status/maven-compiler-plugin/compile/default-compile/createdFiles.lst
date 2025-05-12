@@ -1,0 +1,7 @@
+jiekie\MainMenuPlugin.class
+jiekie\util\ChatUtil.class
+jiekie\command\MainMenuCommand.class
+jiekie\event\InventoryEvent.class
+jiekie\model\MenuInventoryHolder.class
+jiekie\util\SoundUtil.class
+jiekie\util\PacketNames.class
